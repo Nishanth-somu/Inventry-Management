@@ -1,0 +1,38 @@
+/* The below css file is for background */
+.background{
+  background-image: url("E:\INVENTRY MANAGEMENT\projectimages\istockphoto-1177221126-612x612.jpg");
+  background-size: cover;
+  height: 100vh;
+}
+
+/* the above css file is for annanagar component */
+.table-size th,.table-size td{ 
+  border: 2px solid black;
+  border-collapse: collapse;
+  padding: 20px;
+}
+.background-admindash{
+  background-image: url("https://thumbs.dreamstime.com/b/inside-warehouse-15910007.jpg");
+  background-size: cover;
+  height: 100vh;
+}
+.card-admin{
+  background-image: linear-gradient(to top right, rgb(75, 75, 77),rgb(237, 230, 230));
+}
+.warehose-img{
+  background-image: url("https://e1.pxfuel.com/desktop-wallpaper/1016/163/desktop-wallpaper-warehouse-inventory.jpg");
+  background-size: cover;
+  height: 100vh;
+}
+
+.card-one{
+  background-color: rgb(218, 217, 217);
+  border: 4px rgb(35, 34, 34) solid;
+  color: rgb(13, 13, 13);
+
+}
+.add-img{
+  background-image: url("https://www.openbravo.com/blog/wp-content/uploads/2017/10/iStock-472274056_SMALL.jpg");
+  background-size: cover;
+  height: 100vh;
+}
